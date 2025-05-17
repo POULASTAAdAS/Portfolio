@@ -13,7 +13,7 @@ const syne = Syne({
 export const metadata: Metadata = {
   title: "Poulastaa Das — Android Developer",
   description:
-    "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    "Android Developer and Backend Engineer Focused on interfaces and experiences, working remotely from Kolkata, India",
   generator: "Next.js",
   applicationName: "Poulastaa Das",
   keywords: [
@@ -21,14 +21,16 @@ export const metadata: Metadata = {
     "developer",
     "freelance developer",
     "frontend",
-    "react",
+    "Kotlin",
+    "Android",
+    "Android developer",
     "frontend developer",
     "frontend engineer",
     "creative",
     "creative developer",
     "creative engineer",
     "tech",
-    "nigeria",
+    "india",
     "software",
     "software developer",
     "portfolio",
@@ -38,8 +40,7 @@ export const metadata: Metadata = {
   colorScheme: "dark",
   openGraph: {
     title: "Poulastaa Das — Android Developer",
-    description:
-      "Android Develpoer, self learner, work from India.",
+    description: "Android Develpoer self learner, work from India.",
     url: "https://www.victorwilliams.me/",
     siteName: "www.victorwilliams.me",
     images: [
@@ -56,8 +57,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Poulasta Das— Android Developer",
-    description:
-      "Android Develpoer, self learner, work from India..",
+    description: "Android Developer self learner, work from India..",
     creator: "victorwill__",
     creatorId: "1243720976552144897",
     images: [
