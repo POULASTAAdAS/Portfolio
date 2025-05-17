@@ -41,11 +41,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Poulastaa Das — Android Developer",
     description: "Android Develpoer self learner, work from India.",
-    url: "https://www.victorwilliams.me/",
+    url: "",
     siteName: "www.victorwilliams.me",
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "",
         width: 1200,
         height: 630,
         alt: "Poulasta Das— Android Developer",
@@ -60,9 +60,7 @@ export const metadata: Metadata = {
     description: "Android Developer self learner, work from India..",
     creator: "victorwill__",
     creatorId: "1243720976552144897",
-    images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
-    ],
+    images: [""],
   },
   robots: {
     index: true,
