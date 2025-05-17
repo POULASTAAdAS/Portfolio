@@ -29,7 +29,7 @@ export const devProjects = [
     technologies: ["Jetpack Compose", "Ktor"],
     github: "https://github.com/POULASTAAdAS/Leave-Management-System",
     demo: "https://github.com/POULASTAAdAS/Leave-Management-System",
-    // image: require(".//../../public/projects/interlock.png"), todo add image
+    image: require(".//../../public/projects/lms.png"),
     available: true,
   },
   {
